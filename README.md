@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="70%">
       <h1 align="center">
         <br>
         3D Deep Learning researcher on<br>
