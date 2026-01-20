@@ -6,11 +6,11 @@
         ☁️ Point Clouds & 🌍 Geosciences
         </h1>
       <h3 align="center">
-        <a href="https://farmakis.github.io/">Personal website</a>
-        <br/>
-        <p align="center"> 
-            <img src="https://komarev.com/ghpvc/?username=farmakis-e&label=Profile%20views&color=0e75b6&style=flat" alt="farmakis" /> 
-        </p>
+        <img src="https://komarev.com/ghpvc/?username=farmakis-e&label=Profile%20views&color=0e75b6&style=flat" alt="farmakis" style="vertical-align: middle;" /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://farmakis.github.io/" style="vertical-align: middle;">
+            Personal website
+        </a>
       </h3>
     </td>
     <td width="40%" align="center">
