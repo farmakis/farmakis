@@ -11,7 +11,7 @@
         <br/>
       </h3>
     </td>
-    <td width="60%" align="center">
+    <td width="30%" align="center">
         <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmakis&layout=compact" alt="languages" height="140" />
     </td>
