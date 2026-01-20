@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h1 align="center">
         3D Deep Learning researcher on<br>
         ☁️ Point Clouds & 🌍 Geosciences
